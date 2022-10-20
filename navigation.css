@@ -1,0 +1,17 @@
+*{
+		margin: 0%;
+}
+.navigation{
+	background-color:green;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navigation{
+	color: skyblue;
+	font-size: 50px;
+	text-decoration: none;
+	padding: red;
+}
+.navigation a:hover{
+	background-color: red;
+}
